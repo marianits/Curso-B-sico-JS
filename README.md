@@ -1,2 +1,2 @@
-# Curso-B-sico-JS
+# Curso-Basico-JS
 Basic stuff
